@@ -1,0 +1,26 @@
+[{
+    "name": "Curs complet de matematica pentru Examenul de Bacalaureat",
+    "typeOfCourse": "video",
+    "description": "In aproximativ 50 de ore am sintetizat materia de liceu, pentru elevii de clasa a XII-a ce se pregatesc pentru examenul de Bacalaureat. Totodata, acest curs este o buna oportunitate pentru elevii din clasele IX - XI de a se familiariza cu tipul de exercitii si probleme specifice examenului de Bacalaureat. Deja am introdus subiecte cu raspunsuri la alegere pentru Bacalaureat 2020.",
+    "image": "https://matecumatei.ro/wp-content/uploads/2019/04/03-Bac-04-e1554239860346-300x200.png",
+    "position": "1",
+    "reviews": [3,4,5]
+  },
+  {
+    "name": "Limite de functii - Metoda usoara",
+    "typeOfCourse": "video",
+    "description": "In acest curs introduc limitele de functii pornind de la reprezentarea geometrica a graficului unei functii. Fara limite de siruri, fara vecinatati si fara epsilon. In urma acestui curs, vei putea calcula cu usurinta limite de functii si vei putea caracteriza comportamentul asimptotic al functiilor.",
+    "image": "https://matecumatei.ro/wp-content/uploads/capture02-2.png",
+    "position": "2",
+    "reviews": [3,4,5]
+  },
+  {
+    "name": "Curs de trigonometrie pentru clasa a IX-a",
+    "typeOfCourse": "video",
+    "description": "In acest curs prezint cea mai simpla metoda de intelegere a trigonometriei. Vom folosi cercul trigonometric pentru deducerea rapida a tuturor proprietatilor functiilor trigonometrice, evitand memorarea formulelor. La finalul acestui curs, vei putea efectua cu usurinta calcule trigonometrice utilizand rationamente deductive.",
+    "image": "https://matecumatei.ro/wp-content/uploads/2019/04/Trigo-01-e1554240139868-300x199.png",
+    "position": "3",
+    "reviews": [3,4,5]
+  }
+
+]
